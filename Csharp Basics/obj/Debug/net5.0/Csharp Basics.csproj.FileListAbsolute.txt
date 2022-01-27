@@ -1,0 +1,16 @@
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\bin\Debug\net5.0\Csharp Basics.exe
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\bin\Debug\net5.0\Csharp Basics.deps.json
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\bin\Debug\net5.0\Csharp Basics.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\bin\Debug\net5.0\Csharp Basics.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\bin\Debug\net5.0\Csharp Basics.dll
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\bin\Debug\net5.0\ref\Csharp Basics.dll
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\bin\Debug\net5.0\Csharp Basics.pdb
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\Csharp Basics.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\Csharp Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\Csharp Basics.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\Csharp Basics.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\Csharp Basics.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\Csharp Basics.dll
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\ref\Csharp Basics.dll
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\Csharp Basics.pdb
+C:\Users\rafae\OneDrive\Documentos\Mizzou\Spring 2022\IT 2040\Module 2\Csharp Basics\obj\Debug\net5.0\Csharp Basics.genruntimeconfig.cache
