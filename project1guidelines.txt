@@ -1,0 +1,16 @@
+You program should do the following:
+
+-Ask the user for their name
+-Ask the user for the file to be read
+-If the user file name provided does not end in ".csv" then your code should add ".csv" to the file name
+-Read the data file line by line to get the individual pieces of data
+-Calculate the pay for each worker
+-Print each employees pay to the console
+-Create a summary report named salarySummary.txt contains
+	-Number of Employees
+	-Total Payroll
+	-Average Pay
+	-Maximum Pay
+	-Minimum Pay
+-Output a message letting the user know the report was successfully written
+-End the program
